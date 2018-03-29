@@ -3,6 +3,8 @@ Video Recorder Chrome App
 
 This is the source code for my Chrome application which can be viewed as a [Github Gist](https://gist.github.com/michaelsboost/b4105c4548a664c936d04eab54bb8186).
 
+Once your video is done being recorded you can right click and save the video.
+
 ##### I personally have discontinued development of this application. However if you want any features (like changing camera source) please submit a pull request of your update/randition and it may get added into the next release.
 
 Version
