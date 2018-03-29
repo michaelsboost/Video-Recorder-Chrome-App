@@ -1,0 +1,19 @@
+{
+   "app": {
+      "background": {
+         "pages": [ "html/embed.html" ],
+         "scripts": [ "js/background.js" ]
+      }
+   },
+   "description": "A shortcut app generated via WebDGap.",
+   "icons": {
+      "128": "img/128.png",
+      "16": "img/16.png",
+      "32": "img/32.png",
+      "64": "img/64.png"
+   },
+   "manifest_version": 2,
+   "name": "Video Recorder",
+   "permissions": [ "webview", "audioCapture", "videoCapture", "storage", "fileSystem", "unlimitedStorage", "http://*/", "https://*/" ],
+   "version": "0.0.3"
+}
