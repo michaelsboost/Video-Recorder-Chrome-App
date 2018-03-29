@@ -10,7 +10,7 @@ Once your video is done being recorded you can right click and save the video.
 Version
 -------------
 
-0.0.3
+1.1.0
 
 License
 -------------
