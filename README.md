@@ -22,6 +22,7 @@ Why these libraries are used.
 
 * [jQuery](http://jquery.com/) - duh
 * [VideoJS](https://github.com/collab-project/videojs-record) - record the webcam
+* [kodeWeave](http://michaelsboost.github.io/kodeWeave) - embeds the source and displays it in a full preview window as a webpage
 
 Development
 -------------
